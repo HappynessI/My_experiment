@@ -303,7 +303,7 @@ verl-agentgym/
 
 - Webshop 环境的 GRPO 训练效果不理想，需要调优超参数
 - TextCraft 环境的 GRPO 训练尚未完成测试
-- 部分环境的奖励函数设计需要进一步优化
+- 部分环境的依赖能正常安装（lmrlgym、tool、webarena失败了）
 
 ### 未来计划
 
