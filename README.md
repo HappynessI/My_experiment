@@ -90,7 +90,7 @@ verl/interactions/
 
 ```bash
 # 克隆本仓库
-git clone https://github.com/HappynessI/My_experiment.git verl-agentgym
+git clone https://github.com/HappynessI/verl-for-AgentGym.git verl-agentgym
 cd verl-agentgym
 
 # 创建 conda 环境
